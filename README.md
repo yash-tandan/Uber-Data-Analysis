@@ -16,6 +16,15 @@ so we proceed with the project in sequce as data cleaning then we perform Univar
 
 then we look for Bivaraite analysis and draw our conclusion
 
+Result:
+
+![image](https://github.com/yash-tandan/Uber-Data-Analysis/assets/92167538/c644ec45-e5b8-49d3-b54d-cb485b606765)
+
+
+![image](https://github.com/yash-tandan/Uber-Data-Analysis/assets/92167538/b97ecb8e-f269-40fc-96d7-55dc524e2d0c)
+
+
+
 Conclusions : Based on the data analysis performed, following recommendation can be used by Uber to bridge the gap between supply and demand: -
 
 For bridging the demand supply gap from airport to city, making a permanent stand in the airport itself where the cabs will be available at all times and the incomplete requests can come down significantly.
@@ -23,3 +32,4 @@ For bridging the demand supply gap from airport to city, making a permanent stan
 Uber can provide some incentives to the driver who complete the trip from city to airport in the morning part. This might result the driver to not cancel the request from city to airport trips.
 
 Last but sure solution to bring down the gap is to increase the numbers of cab in its fleet.
+
