@@ -1,8 +1,8 @@
 # Uber_data_analysis
-Well in this Project we need find out the reason for the Uber cabs getting cancelled with provieded data sets
+In this Project we need find out the reason for the Uber cabs getting cancelled with provieded data sets.
 Data set: kaggle (offical relese of Uber data)
 
-problem statement:
+Problem statement:
 
 You may have some experience of travelling to and from the airport. Have you ever used Uber or any other cab service for this travel? Did you at any time face the problem of cancellation by the driver or non-availability of cars?
 
